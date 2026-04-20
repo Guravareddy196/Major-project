@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+prophet
+xgboost
+scikit-learn
